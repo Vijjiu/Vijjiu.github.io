@@ -84,7 +84,7 @@ h3 {
 /*styling the header */
 header {
   background: linear-gradient( rgba(189, 66, 191, 0.5), rgba(189, 66, 191, 0.7)), /* bottom, image */
-  url(img/header_img.png);
+  url(header_img.png);
   background-size: 500px;
   background-position: center top;
   width: 100%;
