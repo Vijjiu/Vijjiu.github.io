@@ -202,6 +202,14 @@ ul.main-menu{
 .text-box-content {
   padding: 4% 8%;
 }
+
+.text-box-img {
+    width:830; 
+    background-color:white; 
+    height:120px; 
+    overflow:auto;
+}
+
 .text-box-content p {
   line-height: 1.8;
   color: #616569;
